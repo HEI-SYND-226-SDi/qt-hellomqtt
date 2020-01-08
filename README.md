@@ -7,7 +7,7 @@ MQTT with Qt example.
 
         # sudo apt update
         # sudo apt install git nano vim neovim cmake cmake-curses-gui ninja-build g++ gdb qt5-default qtconnectivity5-dev qtbase5-private-dev
-        # git clone https://github.com/HEI-SYND-226-SDi/qtmqtt.git
+        # git clone --branch v5.11.3 https://github.com/qt/qtmqtt.git
         # cd qtmqtt
         # qmake
         # make -j 4
